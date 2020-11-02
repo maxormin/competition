@@ -12,5 +12,5 @@ get_b5_result.ipynb - 获得预测结果
 ###
 | 环境 | 版本 |
 | ----- | ----- |
-| python | >3.8 |
-| tensorflow | >2.3.0 |
+| python | ≥3.8 |
+| tensorflow | ≥2.3.0 |
