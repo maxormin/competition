@@ -3,6 +3,6 @@
 ##
 文件说明
 ###
-read_img.ipynb - 对图像进行分类处理
-model.ipynb - 文件将图像读入并训练
+read_img.ipynb - 对图像进行分类处理\n
+model.ipynb - 文件将图像读入并训练\n
 get_b5_result.ipynb - 获得预测结果
