@@ -11,10 +11,12 @@
 
 ##### ___~~我的环境~~  环境说明___	
 ****
-| 环境 | 版本 |
+| 配置 | 版本 |
 | ----- | ----- |
 | python | ≥3.8 |
-| tensorflow | ≥2.3.0 |
+| keras | ≥2.4 |
+| tensorflow | ≥2.3 |
+| opencv | ≥4.4.0 |
 ****
 
-![](https://img.shields.io/badge/python-3.6-blue)
+
