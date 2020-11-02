@@ -18,3 +18,8 @@ get_b5_result.ipynb - 获得预测结果
 | tensorflow | ≥2.3.0 |
 
 ****
+
+|作者|果冻虾仁|
+|---|---
+|知乎|[![zhihu-shield]][zhihu]
+|公众号|编程往事
