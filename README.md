@@ -8,5 +8,8 @@
 - [x] 初赛top3        ：[队友已写(部分):point_left:	](https://blog.csdn.net/qq_48081601/article/details/109095328 "悬停显示")
 - [x] 复赛top10<br>
 
+#### CCF企业非法集资风险预测top10
+
+#### CCF大数据时代的Serverless工作负载预测前20
 ~~完结~~  未完待续:blush:
 
